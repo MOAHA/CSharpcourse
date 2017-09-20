@@ -12,7 +12,8 @@ namespace Frist_project
         {
             Console.WriteLine("MUHNND OMAR ABD");
             Console.ReadKey();
-
+            Console.WriteLine("Helo Muhnnd");
+            Console.ReadKey();
         }
     }
 }
